@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-alpha3</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1556627510681</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27b52487-fd7a-46aa-9cfa-f39ec4383d26" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/monscanner">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/opencv">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":monscanner" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":monscanner" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":monscanner" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":opencv" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":opencv" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OpenScan_test" type="f1a62948:ProjectNode" />
+                <item name=":opencv" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OpenScan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/fragment_shape_validation.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/CameraActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ShapeValidationFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="186" selection-start-line="186" selection-end-line="186" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#shapeDetection#0;class#ShapeValidationFragment#0" />
+                <element signature="method#maxi#0;class#ShapeValidationFragment#0" />
+                <element signature="method#angle#0;class#ShapeValidationFragment#0" />
+                <element signature="method#scan#0;class#ShapeValidationFragment#0" />
+                <element signature="method#showProgressDialog#0;class#ShapeValidationFragment#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imw</find>
+      <find>push_back</find>
+      <find>draw</find>
+      <find>Log</find>
+      <find>//</find>
+      <find>drawC</find>
+      <find>getord</find>
+      <find>scaled</find>
+      <find>write</find>
+      <find>LA</find>
+      <find>Utils</find>
+      <find>final</find>
+      <find>folder</find>
+      <find>Bitmap</find>
+      <find>Log.d</find>
+      <find>&quot;</find>
+      <find>.jpg</find>
+      <find>cvt</find>
+      <find>mediastore</find>
+      <find>clear</find>
+      <find>createImageFile</find>
+      <find>clearTempImages</find>
+      <find>ScanConstants</find>
+      <find>setPoints</find>
+      <find>Editio</find>
+      <find>log.d</find>
+      <find>saveIm</find>
+      <find>onSca</find>
+      <find>openCamera</find>
+      <find>TAG</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/opencv/build.gradle" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/scan_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/scan_layout.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/activity_shape_validation.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/activity_edition.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/openscan/MainActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ShapeValidationActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/EditionActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ProgressDialogFragment.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/drawable/circle.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/drawable/circle_button.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ScanConstants.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/menu/camera_infos.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/activity_camera.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/popup_layout.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/popup_shape_infos.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/values-fr/strings.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle_pressed.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle_button.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/fragment_shape_validation.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/fragment_edition.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/CameraActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/EditionFragment.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/PolygonView.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ScanActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/res/layout/button.xml" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/CameraActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/EditionFragment.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/PolygonView.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ProgressDialogFragment.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ScanActivity.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ScanConstants.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ShapeValidationFragment.java" />
+        <option value="$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ShapeValidationFragment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="528" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpenScan_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="monscanner" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="OpenScan_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="monscanner" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="OpenScan_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="monscanner" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="monscanner" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenScan_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="monscanner" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="OpenScan_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="monscanner" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="monscanner" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="MKJDU18521001737" />
+    <property name="last_opened_file_path" value="D:/Mes Projets Mobile/PhotoApp" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.monscanner" />
+      <recent name="com.example.openscan" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.monscanner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IS\Desktop\Backups\OpenScan_test\monscanner\src\main\res\drawable-hdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.OpenScan_test:monscanner [build]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenScan_test [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenScan_test [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenScan_test:monscanner [assembleAndroidTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/monscanner" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleAndroidTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenScan_test:monscanner [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/monscanner" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenScan_test:opencv [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/opencv" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Gradle.OpenScan_test [cleanBuildCache]" />
+      <item itemvalue="Gradle.OpenScan_test [build]" />
+      <item itemvalue="Gradle.OpenScan_test:monscanner [build]" />
+      <item itemvalue="Gradle.OpenScan_test:opencv [build]" />
+      <item itemvalue="Gradle.OpenScan_test:monscanner [assembleAndroidTest]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OpenScan_test:monscanner [build]" />
+        <item itemvalue="Gradle.OpenScan_test:monscanner [assembleAndroidTest]" />
+        <item itemvalue="Gradle.OpenScan_test:opencv [build]" />
+        <item itemvalue="Gradle.OpenScan_test [build]" />
+        <item itemvalue="Gradle.OpenScan_test [cleanBuildCache]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b52487-fd7a-46aa-9cfa-f39ec4383d26" name="Default Changelist" comment="" />
+      <created>1554904134830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554904134830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49913943" visible="true" weight="0.24110033" />
+      <window_info id="Structure" order="2" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Build Variants" order="4" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.32928804" />
+      <window_info anchor="bottom" x="22" y="349" width="1236" height="286" id="Run" order="0" sideWeight="0.49433658" weight="0.2857143" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49676377" weight="0.30990782" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32949308" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5040453" side_tool="true" weight="0.25115207" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4959547" weight="0.21543778" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.32949308" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32949308" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298731" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" visible="true" weight="0.20226537" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="StringPreview" order="5" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" weight="0.32928804" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49913943" visible="true" weight="0.21197411" />
+      <window_info id="Structure" order="2" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Build Variants" order="4" sideWeight="0.5008606" side_tool="true" weight="0.21197411" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.32928804" />
+      <window_info anchor="bottom" x="22" y="349" width="1236" height="286" id="Run" order="0" sideWeight="0.49433658" weight="0.27995393" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49676377" weight="0.30990782" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50323623" side_tool="true" weight="0.30990782" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49676377" visible="true" weight="0.25115207" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.3298731" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32949308" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298731" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.20226537" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="StringPreview" order="5" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" weight="0.32928804" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/core/TermCriteria.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/core/Algorithm.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/android/StaticHelper.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/engine/OpenCVEngineInterface.aidl" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/android/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/imgproc/CLAHE.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/imgproc/Imgproc.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/imgproc/Moments.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/imgproc/LineSegmentDetector.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/circle.xml" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/core/CvType.java" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/core/MatOfPoint2f.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable-hdpi/circle_pressed.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/circle_button.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/circle_released.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/circle_pressed.xml" />
+    <entry file="file://$PROJECT_DIR$/opencv/src/org/opencv/core/Mat.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/openscan/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/menu/camera_infos.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/rotatedroite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/rotategauche.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/infos.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/activity_camera.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/popup_shape_infos.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/values-fr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="145" selection-start-line="22" selection-start-column="145" selection-end-line="22" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="118" selection-start-line="22" selection-start-column="118" selection-end-line="22" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/popup_camera_infos.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle_pressed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/drawable/round_rectangle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/fragment_edition.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/EditionFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/PolygonView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="158" column="38" selection-start-line="158" selection-start-column="38" selection-end-line="158" selection-end-column="38" />
+          <folding>
+            <element signature="e#11153#11154#0" expanded="true" />
+            <element signature="e#11201#11202#0" expanded="true" />
+            <element signature="e#11279#11280#0" expanded="true" />
+            <element signature="e#11323#11324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ProgressDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ScanActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ScanConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/button.xml" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/CameraActivity.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/EditionFragment.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/PolygonView.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ProgressDialogFragment.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ScanActivity.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ScanConstants.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/cofisoft/monscanner/ShapeValidationFragment.java" />
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/res/layout/fragment_shape_validation.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/CameraActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monscanner/src/main/java/com/example/monscanner/ShapeValidationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#shapeDetection#0;class#ShapeValidationFragment#0" />
+            <element signature="method#maxi#0;class#ShapeValidationFragment#0" />
+            <element signature="method#angle#0;class#ShapeValidationFragment#0" />
+            <element signature="method#scan#0;class#ShapeValidationFragment#0" />
+            <element signature="method#showProgressDialog#0;class#ShapeValidationFragment#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
