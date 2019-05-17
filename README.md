@@ -5,6 +5,8 @@ Open the OpenScan_test folder with Android Studio to edit the project
 
 The library monscanner use OpenCV. You can have update OpenCV with the last release version to upgrade de performances.
 
+Available in french/english
+
 # Screenshots
 <img src="screenshots/appareilperso.jpg" width=200px/>    <img src="screenshots/contours.jpg" width=200px/>    <img src="screenshots/filtres.jpg" width=200px/>
 
